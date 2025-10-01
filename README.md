@@ -5,7 +5,14 @@
 
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
 
-<img align="right" width=200px alt="Matrix hacker cat" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>
+<!-- Safe Version -->
+<img align="right" width=200px alt="Matrix hacker cat" src="https://media1.tenor.com/m/cwQyX-BsOO4AAAAd/wallet-jake-peralta.gif"/>
+
+<!-- Monke Version -->
+<!-- <img align="right" width=200px alt="Matrix hacker cat" src="https://media1.tenor.com/m/neF3-RkDZDMAAAAd/vibe-coding-vibe.gif"/> -->
+
+<!-- Edgy Version -->
+<!-- <img align="right" width=200px alt="Matrix hacker cat" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2xodng2bHhpenAyMGc3N25lbjlueGRuM2Y3OGVwZThrYmEyMTc1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5QYnfErdN13d5Tyotr/giphy.gif"/> -->
 
 I am a **Full Stack Developer** passionate about building scalable apps and exploring cloud technologies. My core stack is JavaScript/TypeScript and its related frameworks/libraries, expanding to include Python since I use it for misc development stuff and DSA already.
 
