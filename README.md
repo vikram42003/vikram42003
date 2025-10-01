@@ -1,3 +1,5 @@
+<!-- I took """inspiration""" for this design from https://github.com/ALX-13, https://github.com/daria-stanilevici, found on this https://www.reddit.com/r/github/comments/uulygm/what_are_some_really_nice_github_profile_readmes/?sort=top reddit thread -->
+
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&width=435&lines=Hey%2C+I'm+Vikram;Welcome+to+my+profile!)](https://git.io/typing-svg)
@@ -36,9 +38,9 @@ I am a **Full Stack Developer** passionate about building scalable apps and expl
 
 <!-- Profile Trophies -->
 <div align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=vikram42003&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="80%" />
-    </a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=vikram42003&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="80%" />
+  </a>
 </div>     
 
 <!-- Social Links -->
@@ -123,11 +125,11 @@ I am a **Full Stack Developer** passionate about building scalable apps and expl
 <table align="center">
 <tr>
 <td width="50%" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=vikram42003&theme=tokyonight&show_icons=true&count_private=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikram42003&theme=tokyonight&hide_border=false" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vikram42003&theme=tokyonight&show_icons=true&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikram42003&theme=tokyonight&hide_border=false" alt="streak" />
 </td>
 <td width="50%" align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikram42003&theme=tokyonight&hide_border=false&langs_count=8&exclude_repo=dotfiles&layout=donut-vertical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikram42003&theme=tokyonight&hide_border=false&langs_count=8&exclude_repo=dotfiles&layout=donut-vertical"/>
 </td>
 </tr>
 </table>
@@ -136,9 +138,9 @@ I am a **Full Stack Developer** passionate about building scalable apps and expl
 <!-- Visitor Counter -->
 <br>
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
-    <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
-    <img alt="visitors counter" src="https://views-counter.vercel.app/badge?pageId=vikram42003%2FViews-Counter">
-    <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
+  <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
+  <img alt="visitors counter" src="https://views-counter.vercel.app/badge?pageId=vikram42003%2FViews-Counter">
+  <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
 </div>
 
 <br>
