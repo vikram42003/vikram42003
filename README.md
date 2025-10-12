@@ -16,7 +16,7 @@
 <!-- Edgy Version -->
 <!-- <img align="right" width=200px alt="Matrix hacker cat" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2xodng2bHhpenAyMGc3N25lbjlueGRuM2Y3OGVwZThrYmEyMTc1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5QYnfErdN13d5Tyotr/giphy.gif"/> -->
 
-I am a **Full Stack Developer** passionate about building scalable apps and exploring cloud technologies. My core stack is JavaScript/TypeScript and its related frameworks/libraries, expanding to include Python since I use it for misc development stuff and DSA already.
+I am a **Software Developer** passionate about building scalable apps and exploring cloud technologies. My core stack is JavaScript/TypeScript and its related frameworks/libraries, expanding to include Python since I use it for misc development stuff and DSA already.
 
 - 🚀 Building projects with **TypeScript, MERN, Tailwind, AWS, GraphQL**
 - 🛠 Experienced in setting up **CI/CD pipelines** (unit, integration, e2e tests, version bumping + automated deployments)  
