@@ -16,7 +16,7 @@
 <!-- Edgy Version -->
 <!-- <img align="right" width=200px alt="Matrix hacker cat" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2xodng2bHhpenAyMGc3N25lbjlueGRuM2Y3OGVwZThrYmEyMTc1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5QYnfErdN13d5Tyotr/giphy.gif"/> -->
 
-I am a **Software Developer** passionate about building scalable apps and exploring cloud technologies. My core stack is JavaScript/TypeScript and its related frameworks/libraries, expanding to include Python since I use it for misc development stuff and DSA already.
+I am a **Software Developer** passionate about building scalable apps and exploring cloud technologies. My core stack is JavaScript/TypeScript and its related frameworks/libraries, currently in process of expanding to include Python.
 
 - 🚀 Building projects with **TypeScript, MERN, Tailwind, AWS, GraphQL**
 - 🛠 Experienced in setting up **CI/CD pipelines** (unit, integration, e2e tests, version bumping + automated deployments)  
@@ -30,10 +30,9 @@ I am a **Software Developer** passionate about building scalable apps and explor
 ***📚 Currently what I'm up to***
 - Learning Next.js.
 - Levelling up in **Infrastructure as Code** and **AWS Cloud**.  
-<!-- - Exploring **Python backend frameworks** to pair with cloud for future projects.  -->
 - Brushing up **SQL/Postgres** and learning new ORMs like **Prisma** and **Drizzle**. 
 - Exploring **OWASP Top 10, Web App Security, and Zap**, to make my **Cybersecurity/Networks** knowledge more practical and applicable to stuff I build.
-
+<!-- - Exploring **Python backend frameworks** to pair with cloud for future projects.  -->
 <br>
 
 <!-- Profile Trophies -->
@@ -98,21 +97,19 @@ I am a **Software Developer** passionate about building scalable apps and explor
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)&nbsp;
 
-###### Authentication & Security:
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)&nbsp;
-![OAuth2](https://img.shields.io/badge/OAuth2-3C3C3D?style=for-the-badge&logo=openid&logoColor=white)&nbsp;
-![OAuth PKCE](https://img.shields.io/badge/OAuth%20PKCE-3C3C3D?style=for-the-badge&logo=openid&logoColor=white)&nbsp;
-
 ###### Testing:
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)&nbsp;
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)&nbsp;
 ![Testing Library](https://img.shields.io/badge/Testing%20Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)&nbsp;
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)&nbsp;
 
-###### Platforms:
+###### Other Stuff:
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)
 ![WSL](https://img.shields.io/badge/WSL-4D4D4D?style=for-the-badge&logo=linux&logoColor=white)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)&nbsp;
+![OAuth2.0](https://img.shields.io/badge/OAuth2-3C3C3D?style=for-the-badge&logo=openid&logoColor=white)&nbsp;
+![OAuth2.0 PKCE](https://img.shields.io/badge/OAuth%20PKCE-3C3C3D?style=for-the-badge&logo=openid&logoColor=white)&nbsp;
 
 <br>
 
