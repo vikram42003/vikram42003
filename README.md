@@ -98,10 +98,12 @@ I am a **Software Developer** passionate about building scalable apps and explor
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)&nbsp;
 
 ##### Testing:
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)&nbsp;
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)&nbsp;
+![Supertest](https://img.shields.io/badge/Supertest-FF5F00?style=for-the-badge&logo=supertest&logoColor=white)&nbsp;
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)&nbsp;
 ![Testing Library](https://img.shields.io/badge/Testing%20Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)&nbsp;
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)&nbsp;
+
 
 ##### Other Stuff:
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)
