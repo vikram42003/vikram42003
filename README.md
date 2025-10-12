@@ -19,7 +19,7 @@
 I am a **Software Developer** passionate about building scalable apps and exploring cloud technologies. My core stack is JavaScript/TypeScript and its related frameworks/libraries, currently in process of expanding to include Python.
 
 - 🚀 Building projects with **TypeScript, MERN, Tailwind, AWS, GraphQL**
-- 🛠 Experienced in setting up **CI/CD pipelines** (unit, integration, e2e tests, version bumping + automated deployments)  
+- 🛠 Experienced in Cloud and DevOps. Knowledgeable in Computer Networking and Cyber Security.
 - 👯 Open to collaborating on **full-stack projects & open-source**, or anything creative and fun.
 - ✔ Feel free to ask me anything! I'm always eager to help.
 - 📫 Reach out to me at <a href="mailto:vikramjit.s.gill04@email.com">vikramjit.s.gill04@email.com</a>
