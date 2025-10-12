@@ -30,7 +30,7 @@ I am a **Software Developer** passionate about building scalable apps and explor
 ***📚 Currently what I'm up to***
 - Learning Next.js.
 - Levelling up in **Infrastructure as Code** and **AWS Cloud**.  
-- Exploring **Python backend frameworks** to pair with cloud for future projects.  
+<!-- - Exploring **Python backend frameworks** to pair with cloud for future projects.  -->
 - Brushing up **SQL/Postgres** and learning new ORMs like **Prisma** and **Drizzle**. 
 - Exploring **OWASP Top 10, Web App Security, and Zap**, to make my **Cybersecurity/Networks** knowledge more practical and applicable to stuff I build.
 
