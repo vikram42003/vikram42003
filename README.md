@@ -18,7 +18,7 @@
 
 I am a **Software Developer** passionate about building scalable apps and exploring cloud technologies. My core stack is JavaScript/TypeScript and its related frameworks/libraries, currently in process of expanding to include Python.
 
-- 🚀 Building projects with **TypeScript, MERN, Tailwind, AWS, GraphQL**
+- 🚀 Building projects with **TypeScript, Python, Next.js, React, Node.js/Express.js, Tailwind, AWS**
 - 🛠 Experienced in Cloud and DevOps. Knowledgeable in Computer Networking and Cyber Security.
 - 👯 Open to collaborating on **full-stack projects & open-source**, or anything creative and fun.
 - ✔ Feel free to ask me anything! I'm always eager to help.
@@ -30,7 +30,7 @@ I am a **Software Developer** passionate about building scalable apps and explor
 ***📚 Currently what I'm up to***
 - Learning Next.js.
 - Levelling up in **Infrastructure as Code** and **AWS Cloud**.  
-- Brushing up **SQL/Postgres** and learning new ORMs like **Prisma** and **Drizzle**. 
+- Brushing up **SQL/Postgres** and learning new ORMs like **Prisma**. 
 - Exploring **OWASP Top 10, Web App Security, and Zap**, to make my **Cybersecurity/Networks** knowledge more practical and applicable to stuff I build.
 <!-- - Exploring **Python backend frameworks** to pair with cloud for future projects.  -->
 <br>
